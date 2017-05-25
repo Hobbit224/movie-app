@@ -1,5 +1,5 @@
 .movie-poster{
-	/*margin-bottom: 50px;*/
+	margin-bottom: 10px;
 	/*border: 1px solid black;*/
 }
 
@@ -18,5 +18,17 @@
 
 .home-button{
 	/*background-image: url('../images/home-button.png');*/
+	left: 10px;
+	top: 10px;
+
 
 }
+
+#movie-grid{
+	/*left: 12%;*/
+	margin-top: 10px;
+}
+body{
+	background-color: lightgray;
+}
+
